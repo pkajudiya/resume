@@ -1,0 +1,5 @@
+taskkill /f /im "python.exe"
+taskkill /f /im "chrome.exe"
+taskkill /f /im "GoogleCrashHandler.exe"
+taskkill /f /im "OfficeClickToRun.exe"
+taskkill /f /im "conhost.exe"
