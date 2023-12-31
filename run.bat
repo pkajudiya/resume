@@ -1,3 +1,5 @@
-start chrome http://localhost:8000/
+python window.py
+
 py manage.py runserver
+
 
